@@ -1,0 +1,28 @@
+body {
+  background-color: azure;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkslateblue;
+}
+
+figcaption {
+  font: 0.84em/100% Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: darkslateblue;
+}
+
+.photo {
+  border: 10px solid lightslategray;
+  padding: 1px;
+}
+
+.lorem {
+  font: 0.9em/110% Arial, Helvetica, sans-serif;
+  color: darkslateblue;
+  background-color: seashell;
+  padding: 12px;
+  border: 1px solid;
+  width: 64%;
+}
